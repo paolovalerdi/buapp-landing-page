@@ -1,14 +1,14 @@
-base_url = "https://press.wtf"
-title = "Press | Markdown notes for Android"
+base_url = "https://buapp.paolovalerdi.wtf/landing"
+title = "BUAPP | A better university app"
 
 compile_sass = true
 highlight_code = false
 build_search_index = false
 
 [extra.social]
-site_name = "press.wtf"
-title = "Press, for Android"
-description = "Press is a live markdown editor that syncs your notes with git"
+site_name = "buapp.paolovalerdi.wtf"
+title = "BUAPP"
+description = "Planea tu día, consulta tus calificaciones, entérate de lo que sucede en la universidad, simple y rápida, así es BUAPP"
 image_path = "images/social_sharing_card.png"
 image_w = 1248
 image_h = 624
