@@ -1,21 +1,12 @@
-![https://press.wtf](static/images/github_screenshot.png)
+### https://buapp.paolovalerdi.wtf
 
-### https://press.wtf
+Landing page for [BUAPP](https://buapp.paolovalerdi.wtf).
 
-Landing page for [press](https://github.com/saket/press) written using [zola](https://getzola.org).
-
-Feel free to use this for your own app's website. This theme was written by a CSS noob so things may not be perfect. I wrote my own theme because I couldn't find anything remotely good looking despite searching for weeks. 
-
-### Usage
-```shell
-$ git clone git@github.com:saket/press-website.git landing-page && cd landing-page
-$ brew install zola
-$ zola serve
-```
+This a fork of the [Press](https://github.com/saket/press) landing page, see the original code [here](https://github.com/saket/press-website).
 
 ### License
 ```
-Copyright 2021 Saket Narayan.
+Copyright 2021 Paolo Valerdi.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
